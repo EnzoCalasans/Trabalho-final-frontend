@@ -66,3 +66,5 @@ O Meteora é um e-commerce fictício de moda em constante desenvolvimento. Este 
 O design e protótipo deste projeto podem ser encontrados [aqui](https://www.figma.com/file/R5ATrWK1nC44Eyeo6XZXlr/Meteora---Context-API?node-id=2386%3A2430&mode=dev).
 
 Aproveite o desenvolvimento e aprimoramento do Meteora!
+
+teste
