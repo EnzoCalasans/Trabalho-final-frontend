@@ -13,13 +13,13 @@ app.use(cors());
 // Conecta o bd com MongoDB
 mongoose.connect("mongodb+srv://enzocalasans:1234554321@cluster0.9xqz2.mongodb.net/")
 
-// Cria API
+// Confirma que o servidor esta ativo
 
 app.get("/", (req,res) => {
     res.send("Express App está rodando")
 })
 
-//Esquema criação do modelo de usuario
+//Esquema criação do modelo de usuario para armazenar informações no MongoDB
 const Users = mongoose.model('users', {
     name: {
         type:String,
