@@ -2,7 +2,7 @@
 .login {
     width: 100%;
     min-height: 100vh; /* Garante que a altura do fundo ocupe toda a tela */
-    background: #fce3fe;
+    background: #000000;
     padding-top: 100px;
     display: flex;
     justify-content: center;
